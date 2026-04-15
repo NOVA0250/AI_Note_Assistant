@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Title and description
-st.title("📚 Hybrid PDF Q&A System")
+st.title("📚 Neural-Knowledge-Engine PDF Q&A System")
 st.markdown("Upload PDFs and ask questions using advanced hybrid search (FAISS + BM25 + optional Qdrant)")
 
 # Initialize session state
