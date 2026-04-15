@@ -8,7 +8,7 @@ import tempfile
 
 # Page configuration
 st.set_page_config(
-    page_title="Hybrid PDF Q&A System",
+    page_title="Neural-Knowledge-Engine PDF Q&A System",
     page_icon="📚",
     layout="wide"
 )
