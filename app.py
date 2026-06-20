@@ -102,7 +102,7 @@ section[data-testid="stSidebar"] {
 textarea {
     background: rgba(255,255,255,0.05) !important;
     border-radius: 12px !important;
-    color: white !important;
+    color: black !important;
 }
 
 /* ANIMATION */
