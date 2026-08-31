@@ -8,8 +8,7 @@ import tempfile
 
 # ------------------ PAGE CONFIG ------------------
 st.set_page_config(
-    page_title="AI_Note_Assistant
-",
+    page_title="AI_Note_Assistant",
     page_icon="🧠",
     layout="wide"
 )
