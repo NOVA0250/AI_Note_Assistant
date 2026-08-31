@@ -1,4 +1,4 @@
-# 📚 KNOWLEDGE-ENGINE PDF Q&A System 
+# 📚 AI Note Assistant with Semantic Search: 
 
 An AI-powered **PDF Question-Answering System** built using **Streamlit**, combining **semantic search (FAISS)** and **keyword search (BM25)** with optional **Qdrant vector database** and **Groq LLM** for fast, accurate responses.
 
