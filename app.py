@@ -8,7 +8,8 @@ import tempfile
 
 # ------------------ PAGE CONFIG ------------------
 st.set_page_config(
-    page_title="NEURAL KNOWLEDGE ENGINE",
+    page_title="AI_Note_Assistant
+",
     page_icon="🧠",
     layout="wide"
 )
@@ -119,7 +120,7 @@ textarea {
 """, unsafe_allow_html=True)
 
 # ------------------ TITLE ------------------
-st.markdown('<div class="title">NEURAL KNOWLEDGE ENGINE</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">AI_Note_Assistant</div>', unsafe_allow_html=True)
 st.markdown("### 🕸️ AI-powered PDF Intelligence System")
 
 # ------------------ SESSION STATE ------------------
